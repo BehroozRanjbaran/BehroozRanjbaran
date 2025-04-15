@@ -1,7 +1,7 @@
 ## Hi there 👨‍💻👋
 
 # 💫 About Me:
-Front-End developer at REON International Group<br>UI (WordPress) developer at Vakeh Translation Institute<br>Currently working with React<br>Advanced knowledge in JavaScript<br>Basic knowledge in Node MySQL<br>Experience with WordPress Elementor<br>Learning React Redux & Next.JS<br>
+Front-End developer at REON International Group<br>UI (WordPress) developer at Vakeh Translation Institute<br>Currently working with React<br>Advanced knowledge in JavaScript<br>Basic knowledge in NodeJS MySQL<br>Experience with WordPress Elementor<br>Learning React Redux & Next.JS<br>
 
 
 ## 🌐 Socials:
